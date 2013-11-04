@@ -1,0 +1,12 @@
+name: HotPotato
+main: me.avery246813579.HotPotato.HotPotato
+version: 1.2.0
+author: Avery246813579
+website: http://Www.FrostByteDev.com
+description: Hot Potato plugin for Minecraft!
+softdepend: [Vault]
+commands:
+  HotPotato:
+    description: Do /HotPotato Help for the help menu.
+  HP:
+    description: Do /HP Help for the help menu.

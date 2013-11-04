@@ -1,0 +1,21 @@
+# Arena Info #
+maxPlayers: 16
+minPlayersToStart: 8
+
+# Player Info #
+clearInventoryOnJoin: false
+canFlyInLobby: false
+
+# Timers #
+lobbyTimer: 60
+waitTimer: 10
+bombTimer: 20
+endTimer: 10
+
+# Developer Options - For Avery # 
+debug: false
+
+# Game Options #
+shootPlayerWhenRemoved: true
+explosionWhenPlayersRemoved: true
+fireworks: true
